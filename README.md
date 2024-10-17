@@ -1,2 +1,2 @@
 # EZSVP
-**E**asy **S**cientific **V**isualization with **P**ython
+**E**asy (EZ) **S**cientific **V**isualization with **P**ython
