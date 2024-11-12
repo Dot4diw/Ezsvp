@@ -3,7 +3,6 @@
 
 #
 <img src="https://github.com/Dot4diw/Ezsvp/blob/main/resources/Screenshot%202024-11-12%20212524.png" width="96%"> 
-#
 
 ## Features
 
