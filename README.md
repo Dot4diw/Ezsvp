@@ -1,6 +1,8 @@
 # EZSVP： **E**asy (EZ) **S**cientific **V**isualization with **P**ython
 **EZSVP** is a powerful and easy-to-use graphical user interface (GUI) application designed for scientific data analysis and visualization. Built with Python, it leverages the power of popular libraries such as PySide6, Matplotlib,Seaborn, NumPy, and Pandas to provide a seamless experience for users to perform complex data operations with simplicity.
-
+#
+![image](https://github.com/Dot4diw/Ezsvp/blob/main/resources/Screenshot%202024-11-12%20212524.png)
+#
 ## Features
 
 - **Intuitive GUI**: A user-friendly interface that simplifies the process of data analysis.
